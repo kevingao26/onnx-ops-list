@@ -1,0 +1,6 @@
+Operation,Llama-3_1-8b,Llama-3-8b,Llama-2-7b
+Embedding,1,1,1
+Linear,225,225,225
+LlamaRotaryEmbedding,33,33,33
+SiLU,32,32,32
+LlamaRMSNorm,65,65,65
